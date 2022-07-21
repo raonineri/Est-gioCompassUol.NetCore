@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subsequencias", "Subsequencias\Subsequencias.csproj", "{A73893D2-6997-43E5-8667-6B348D237D95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73893D2-6997-43E5-8667-6B348D237D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73893D2-6997-43E5-8667-6B348D237D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73893D2-6997-43E5-8667-6B348D237D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73893D2-6997-43E5-8667-6B348D237D95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAF47EFE-6F6A-4B38-B462-F78E6BD49571}
+	EndGlobalSection
+EndGlobal
