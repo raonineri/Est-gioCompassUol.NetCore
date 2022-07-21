@@ -15,16 +15,16 @@ Neste repositório reuni o conteúdo das avalições que desenvolvi durante a re
 
 ## Sprint 1
 
-Resolução de questões teóricas com temas relativos a metodologias ágeis, métodos HTTP, segurança nas redes, Git e GitHub
+Resolução de questões teóricas com temas relativos a metodologias ágeis, métodos HTTP, segurança nas redes, Git e GitHub.
 
 ## Sprint 2
 
-Realização de desafios de código na plataforma **[beecrowd](https://www.beecrowd.com.br)** 
+Realização de desafios de código na plataforma **[beecrowd](https://www.beecrowd.com.br)**. 
 
 ## Sprint 3
 
-Produção de uma aplicação console para manipulação de arquivos JSON
+Produção de uma aplicação console para manipulação de arquivos JSON.
 
 ## Sprint 4/5
 
-Produção de uma Web API ASP.NET Core para gerenciamento de Vendedores de um *Marktplace*
+Produção de uma Web API ASP.NET Core para gerenciamento de Vendedores de um *Marktplace*.
